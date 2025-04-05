@@ -41,3 +41,25 @@ mini-app-tareas/
 
 Martín Sánchez  
 Repositorio: [https://github.com/martinsanchez15/mini-app-tareas](https://github.com/martinsanchez15/mini-app-tareas)
+
+PROMPTS
+ 1. Diagrama de arquitectura
+Prompt:
+"Crea un diagrama de arquitectura con frontend, backend, base de datos, comunicación y seguridad."
+
+Objetivo:
+Entender cómo se organiza una app en capas y qué medidas básicas de seguridad se pueden aplicar.
+
+Aprendizaje:
+Cómo se relacionan los componentes principales y cómo representarlos en un diagrama modular.
+
+2. Mini app de tareas
+Prompt:
+"Simulá una app con tres capas: frontend, backend y base de datos (simulada)."
+
+Objetivo:
+Saber cómo separar el código en módulos y qué funciones debe cumplir cada uno.
+
+Aprendizaje:
+Cómo validar una tarea, simular guardado en una lista y organizar el proyecto de forma escalable.
+
